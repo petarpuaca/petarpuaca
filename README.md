@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi 👋, I'm Petar!
+Hi 👋, I'm Petar (23)!
 
 🎓 Final-year IT student at the University of Belgrade – Faculty of Organizational Sciences <br/>
 💡 Passionate about programming, currently diving into Back-End Web Development <br/>
